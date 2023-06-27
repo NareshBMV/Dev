@@ -16,6 +16,9 @@ class ViewController: UIViewController {
     }
     
     func feature12(){
+    }
+    
+    func feature1() {
         
     }
 

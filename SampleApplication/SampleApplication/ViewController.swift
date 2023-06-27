@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         print("Dev Branch")
     }
 
+    func feature2() {
+        
+    }
 
 }
 

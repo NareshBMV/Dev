@@ -20,7 +20,12 @@ class ViewController: UIViewController {
         
     }
     
+
     func branch2func() {
+    }
+
+    func branch1() {
+
         
     }
     

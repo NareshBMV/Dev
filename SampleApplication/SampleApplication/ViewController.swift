@@ -16,9 +16,12 @@ class ViewController: UIViewController {
     }
 
 
+<<<<<<< HEAD
     func function1() {
         
     }
     
+=======
+>>>>>>> d8e1fe9 (Dev Branch initial commit)
 }
 

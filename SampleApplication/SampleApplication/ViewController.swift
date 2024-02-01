@@ -25,3 +25,6 @@ class ViewController: UIViewController {
 >>>>>>> d8e1fe9 (Dev Branch initial commit)
 }
 
+func TesBranc1() {
+    print("Test Branch 1 Commit")
+}

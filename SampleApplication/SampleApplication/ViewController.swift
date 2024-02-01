@@ -23,5 +23,10 @@ class ViewController: UIViewController {
     
 =======
 >>>>>>> d8e1fe9 (Dev Branch initial commit)
+    
+    
+    func Test() {
+        print("Test Branch 2")
+    }
 }
 

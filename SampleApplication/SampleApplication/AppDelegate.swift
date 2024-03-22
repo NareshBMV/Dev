@@ -31,6 +31,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
     }
 
+    func TestAccount12345(){
+        print("1")
+        print("2")
+        print("3")
+    }
 
 }
 
